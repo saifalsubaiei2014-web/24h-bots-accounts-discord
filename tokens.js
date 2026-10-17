@@ -2,7 +2,7 @@
 import 'dotenv/config';
 export default [
     {
-        channelId: "1210299716936409150",
+        channelId: "1548016489834217602",
         serverId: "1011820688228765828",
         token: process.env.TOKEN1,
         selfDeaf: false,
